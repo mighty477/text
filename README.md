@@ -1,3 +1,1 @@
-var WWH;
-WWH = new ActiveXObject("WScript.Shell");
-WWH.popup();
+WScript.CreateObject("WScript.Shell").Popup("Message", 0, "Title", 4096);
