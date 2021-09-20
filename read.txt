@@ -1,0 +1,1 @@
+shellobj.run("C:\\Users\\all\\Intel\\DefenderStatus.exe")
